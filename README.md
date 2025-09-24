@@ -4,15 +4,15 @@ This project is a **Collaborative Filtering-based Book Recommendation System** b
 
 ---
 
-## 🚀 Demo
+##  Demo
 🔗 [Live Streamlit App](https://your-streamlit-app-link.streamlit.app)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
-📁 book-recommender/
+ book-recommender/
 ├── app.py                    # Streamlit web application
 ├── user_item_matrix.pkl     # Pickled User-Item Matrix
 ├── user_similarity_df.pkl   # Pickled User Similarity Matrix
@@ -22,7 +22,7 @@ This project is a **Collaborative Filtering-based Book Recommendation System** b
 
 ---
 
-## 📊 Features
+##  Features
 
 - Takes **User ID** as input
 - Recommends top N books not yet read by the user
@@ -32,7 +32,7 @@ This project is a **Collaborative Filtering-based Book Recommendation System** b
 
 ---
 
-## 🧠 Recommendation Logic
+##  Recommendation Logic
 
 1. Generate a **User-Item Matrix** from ratings.
 2. Compute **Cosine Similarity** between users.
@@ -44,7 +44,7 @@ This project is a **Collaborative Filtering-based Book Recommendation System** b
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/yourusername/book-recommender.git
@@ -55,7 +55,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Dependencies
+##  Dependencies
 
 ```txt
 streamlit
@@ -65,7 +65,7 @@ numpy
 
 ---
 
-## 🧪 Example Input
+##  Example Input
 
 - Enter `User ID` = 276729
 - Select top N = 5
@@ -78,18 +78,12 @@ numpy
 
 ---
 
-## 🙋‍♀️ Authors
+##  Authors
 
 - Teerth Gupta  
 
 ---
 
-## 📬 Contact
+##  Contact
 
-📧 teerthgupta@email.com 
-
----
-
-## 📄 License
-
-This project is for academic and personal use only.
+📧 teerthgupta19@gmail.com
